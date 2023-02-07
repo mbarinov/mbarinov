@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [me@maxbarinov.com](mailto:me@maxbarinov.com)
 - ⚡ Fun fact: Sailing is my passion ⛵️
 
+[My CV](https://loado-cdn.fra1.cdn.digitaloceanspaces.com/max_barinov_software_engineer.pdf)
