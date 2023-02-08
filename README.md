@@ -9,7 +9,7 @@ My expertise in React and Node.js has enabled me to lead the development of many
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on performance monitoring tool for websites. [Loado](http://loado.dev/?ref=github)
+- 🔭 I’m currently working on performance monitoring [tool](http://loado.dev/?ref=github) for websites.
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on AI tools and web performance.
 - 📫 How to reach me: [me@maxbarinov.com](mailto:me@maxbarinov.com)
