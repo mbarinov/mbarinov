@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on performance monitoring [tool](http://loado.dev/?ref=github) for websites.
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI [My AI Agent](https://aithelete.vercel.app/) 🏋️‍♂️
 - 👯 I’m looking to collaborate on AI tools and web performance.
 - 📫 How to reach me: [me@maxbarinov.com](mailto:me@maxbarinov.com)
 - ⚡ Fun fact: Sailing is my passion ⛵️
