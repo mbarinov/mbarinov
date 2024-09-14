@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Experienced software developer with more than 10 years of coding for Revolut, JetBrains, and Tulipshare. 
-My expertise in React and Node.js has enabled me to lead the development of many wonderful projects.
+My expertise in React, Next.js, LangChain and Node.js has enabled me to lead the development of many wonderful projects.
 
 <!--
 **mbarinov/mbarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
